@@ -1,5 +1,3 @@
-# Agenda Part 1
-
 ## Getting started
 
 ### Version control systems
@@ -31,8 +29,6 @@
 ### Security
 
 ---
-
-# Agenda Part 2
 
 ## Project 2: Merge Conflicts
 
