@@ -2,7 +2,7 @@
 
 **GitHub Developers Training [GH4D]**
 
-* [Syllabus](activities/repo_navigation.md)
+* [Syllabus](syllabus.md)
 
 **Activities**
 
