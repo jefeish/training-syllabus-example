@@ -30,13 +30,6 @@
 
 ---
 
-## Project 2: Merge Conflicts
-
-### Defining a merge conflict
-### Resolving a merge conflict
-
----
-
 ## Project 1: Caption this
 
 ### Branching with Git
@@ -46,6 +39,13 @@
 ### Editing on GitHub
 ### Merging Pull Requests
 ### GitHub Pages
+
+---
+
+## Project 2: Merge Conflicts
+
+### Defining a merge conflict
+### Resolving a merge conflict
 
 ---
 
