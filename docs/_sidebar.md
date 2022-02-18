@@ -1,8 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-**Get Ready For Class**
+**GitHub Developers Training [GH4D]**
 
-**Getting Started**
+* [Syllabus](activities/repo_navigation.md)
 
 **Activities**
 
