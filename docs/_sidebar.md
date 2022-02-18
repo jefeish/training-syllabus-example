@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-**GitHub Developers Training [GH4D]**
+**GitHub Developers Training**
 
 * [Syllabus](syllabus.md)
 
